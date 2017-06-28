@@ -1,5 +1,5 @@
 {
   "require": {
-	"hj/demo":"dev"
+	"hj/demo":"dev-master"
   }
 }

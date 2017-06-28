@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "name": "hj/demo",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/houjian1/demo.git",
+            "reference": "81b6f6b0a6c8fae173520d2df3540c382a23f412"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/houjian1/demo/zipball/81b6f6b0a6c8fae173520d2df3540c382a23f412",
+            "reference": "81b6f6b0a6c8fae173520d2df3540c382a23f412",
+            "shasum": ""
+        },
+        "time": "2017-06-28T01:11:52+00:00",
+        "type": "project",
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "houj",
+                "email": "1121585864@qq.com"
+            }
+        ],
+        "description": "composer"
+    }
+]
